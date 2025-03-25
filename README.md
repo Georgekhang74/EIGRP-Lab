@@ -4,7 +4,8 @@
 </p>
 
 <h1>EIGRP Configuration </h1>
-
+</p>
+In this lab I will be exploring EIGRP(Enhanced Interior Gateway Routing Protocol). I will be going through various features like EIGRP stubs, basic MD5 encryption, traffic manipulation and more.
 
 
 
