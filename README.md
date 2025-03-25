@@ -18,7 +18,7 @@
 
 <h2>Operating Systems Used </h2>
 
-- Cisco CLI
+- Cisco ios
 
 
 <h2>How to get Started</h2>
@@ -31,7 +31,7 @@
 <h2>Deployment and Configuration Steps</h2>
 
 ![image](https://github.com/user-attachments/assets/dea8a398-9581-4af8-b914-0a9a0e5d6545)
-Steps"/>
+
 </p>
 <p>
 - Topology overview 
@@ -157,92 +157,121 @@ Steps"/>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/7124ddc0-41f3-4a0b-b55d-77de96c82eb6)
+
+![image](https://github.com/user-attachments/assets/0e8c0b54-62ce-40d3-bccf-c42ac1dd72ea)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- apply md5 authentication from r3 to r9
+  <p>
+    - observe changes
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/a4f5016e-9e8d-4b61-8c3a-7b2688107622)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- shut down the link from r3- r6
+  <p>
+    - observe changes
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/a71161a6-7171-49a2-9d96-05da16a150b5)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- apply md5 from r9 to r3
+  <p> 
+    - observe changes
+    <p>
+      - turn back on the link from r3 to r6
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/6b2e617e-e027-4d66-907b-177ed82d1225)
+![image](https://github.com/user-attachments/assets/c809670f-3161-41f2-8c22-49eaecfa3328)
+![image](https://github.com/user-attachments/assets/ee6fc0a8-fd4b-48f0-851c-8d9954b67c11)
+![image](https://github.com/user-attachments/assets/50fdc4f5-a270-4d0b-9906-ac56d4ac64ff)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- apply md5 from r3 to r6 and r6 to r9
+  <p>
+    - observe changes
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/a9ea8f90-38a5-4bde-8cc4-d21bf8b88870)
+![image](https://github.com/user-attachments/assets/2fe3cb1b-685f-4280-a864-58ecd71b97c9)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- apply md5 back
+  <p>
+    - observe changes
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/1a6cf336-b8bc-4688-b489-aa28edbc3eed)
+![image](https://github.com/user-attachments/assets/0f1f87ee-bf25-4bb4-ad1d-32af6f193b66)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-add a metric of 80,000,000 to all outbound links from r9 to r6
+  <p>
+    - observe changes
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/900f5bc7-a40c-48c6-916e-4b8647c0d9ac)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- add a metric of 80,000,000 from r6 to r9
+  <p>
+    - observe changes
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/9ec6317b-ba3e-48a9-b2bb-6ff3cf3f84e0)
+![image](https://github.com/user-attachments/assets/54060f53-9264-40e9-b824-9ccf70189e4a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- add a new network on a new interface on r6
+<p>
+  - advertise into EIGRP 120
+  <p>
+  - observe changes
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/3b881b58-3951-47ea-a9f9-c583f79fac00)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- redistribute EIGRP 120
+  <p>
+    - observe changes
 </p>
 <br />
 
 
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+This lab was to meant for me to get experience configuring EIGRP. Make sure to check out the PowerPoint presentation made for this. Thank you.
+
 
