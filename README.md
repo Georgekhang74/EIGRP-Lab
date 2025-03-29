@@ -37,7 +37,9 @@ In this lab I will be exploring EIGRP(Enhanced Interior Gateway Routing Protocol
 <p>
 - Topology overview 
   <p></p>
-    - Configure the IP Addesses and EIGRP 
+    - Configure the IP Addesses and EIGRP to their corresponding routers
+    </p>
+    -Test the links to each neighbor using the "ping" command
 </p>
 <br />
 
