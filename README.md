@@ -56,7 +56,7 @@ In this lab I will be exploring EIGRP(Enhanced Interior Gateway Routing Protocol
     <p>
       - change the link from r6-r9 to 1024
       <p>
-        - observe changes
+        - Use the "traceroute" command to see how the paths were affected
 </p>
 <br />
 
@@ -66,7 +66,7 @@ In this lab I will be exploring EIGRP(Enhanced Interior Gateway Routing Protocol
 <p>
 - apply static stub to r1
   <p>
-    - observe changes
+    - observe what happened to R1
 </p>
 <br />
 
@@ -76,7 +76,7 @@ In this lab I will be exploring EIGRP(Enhanced Interior Gateway Routing Protocol
 <p>
 - apply redistributed stub to r4
   <p>
-    - observe changes
+    - observe how to rest of the network sees R4
 </p>
 <br />
 
@@ -87,7 +87,7 @@ In this lab I will be exploring EIGRP(Enhanced Interior Gateway Routing Protocol
 <p>
 -apply summary stub to r7
     <p>
-      - observe changes
+      - observe how to rest of the network sees R7
 </p>
 <br />
 
@@ -275,6 +275,6 @@ In this lab I will be exploring EIGRP(Enhanced Interior Gateway Routing Protocol
 
 
 <p>
-This lab was to meant for me to get experience configuring EIGRP. Make sure to check out the PowerPoint presentation made for this. Thank you.
+Must have the basic netwworking knowledge to understand what is going on in this lab. This lab was to meant for me to get experience configuring EIGRP. Make sure to check out the PowerPoint presentation made for this. Thank you.
 
 
